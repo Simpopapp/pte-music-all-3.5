@@ -1,0 +1,1 @@
+1- organize um json com os 31 grupos de frases sem outras informações alem das frases em si, separadas mas sequenciais e agrupadas 2- crie um app pra facilitar ver e copiar grupo por grupo em texto ou json (2 opções) (contendo apenas as frases separadas apenas por virgula+paragrafo)

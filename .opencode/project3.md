@@ -1,0 +1,1 @@
+crie 3 versões de separação dos grupos selecionaveis no app, tipo A sendo o atual dividido de 10 em 10, tipo B dividido de 20 em 20, e tipo c tendo 30

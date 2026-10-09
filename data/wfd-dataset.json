@@ -1,0 +1,2410 @@
+[
+  {
+    "id": 1,
+    "priority_rank": 1,
+    "sentence": "Make sure you wash your hands before preparing food.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 1
+  },
+  {
+    "id": 2,
+    "priority_rank": 2,
+    "sentence": "Online courses allow students to work at their own pace.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 1
+  },
+  {
+    "id": 3,
+    "priority_rank": 3,
+    "sentence": "We can have a lecture on the morning of Thursday.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 1
+  },
+  {
+    "id": 4,
+    "priority_rank": 4,
+    "sentence": "Understanding visual media has never been more challenging.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 1
+  },
+  {
+    "id": 5,
+    "priority_rank": 5,
+    "sentence": "Many university lectures can now be viewed on the internet.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 1
+  },
+  {
+    "id": 6,
+    "priority_rank": 6,
+    "sentence": "Your statistical information depends on your raw data.",
+    "word_count": 8,
+    "topic": "Science",
+    "song_group": 1
+  },
+  {
+    "id": 7,
+    "priority_rank": 7,
+    "sentence": "The coffee machine on the third floor is not working today.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 1
+  },
+  {
+    "id": 8,
+    "priority_rank": 8,
+    "sentence": "You need to hand in the essay next semester.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 1
+  },
+  {
+    "id": 9,
+    "priority_rank": 9,
+    "sentence": "The manager will have a meeting in this room today.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 1
+  },
+  {
+    "id": 10,
+    "priority_rank": 10,
+    "sentence": "The conference will be held on Thursday morning.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 1
+  },
+  {
+    "id": 11,
+    "priority_rank": 11,
+    "sentence": "Canada has a long history of immigration from many different parts of the world.",
+    "word_count": 14,
+    "topic": "History",
+    "song_group": 2
+  },
+  {
+    "id": 12,
+    "priority_rank": 12,
+    "sentence": "Your boss wants you to finish this report by Monday.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 2
+  },
+  {
+    "id": 13,
+    "priority_rank": 13,
+    "sentence": "Chemical reactions occur when substances combine or change.",
+    "word_count": 8,
+    "topic": "Science",
+    "song_group": 2
+  },
+  {
+    "id": 14,
+    "priority_rank": 14,
+    "sentence": "Please make an appointment to see the manager.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 2
+  },
+  {
+    "id": 15,
+    "priority_rank": 15,
+    "sentence": "You can get coffee and tea in the lunchroom.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 2
+  },
+  {
+    "id": 16,
+    "priority_rank": 16,
+    "sentence": "You will get coffee and tea in the next room.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 2
+  },
+  {
+    "id": 17,
+    "priority_rank": 17,
+    "sentence": "Computers used to be larger than they are now.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 2
+  },
+  {
+    "id": 18,
+    "priority_rank": 18,
+    "sentence": "Social psychology is concerned with the understanding of human behaviors.",
+    "word_count": 10,
+    "topic": "Social Sciences",
+    "song_group": 2
+  },
+  {
+    "id": 19,
+    "priority_rank": 19,
+    "sentence": "You must call your doctor to make an appointment.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 2
+  },
+  {
+    "id": 20,
+    "priority_rank": 20,
+    "sentence": "We are encouraged to write on each page.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 2
+  },
+  {
+    "id": 21,
+    "priority_rank": 21,
+    "sentence": "Tact is the knack of making a point without making an enemy.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 3
+  },
+  {
+    "id": 22,
+    "priority_rank": 22,
+    "sentence": "Her design incorporates the best aspects of modern architecture.",
+    "word_count": 9,
+    "topic": "Arts",
+    "song_group": 3
+  },
+  {
+    "id": 23,
+    "priority_rank": 23,
+    "sentence": "Honey can be used as food and as a health product.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 3
+  },
+  {
+    "id": 24,
+    "priority_rank": 24,
+    "sentence": "Art and design are competitive fields to work in.",
+    "word_count": 9,
+    "topic": "Arts",
+    "song_group": 3
+  },
+  {
+    "id": 25,
+    "priority_rank": 25,
+    "sentence": "Universities need to secure grants for research subjects.",
+    "word_count": 8,
+    "topic": "Science",
+    "song_group": 3
+  },
+  {
+    "id": 26,
+    "priority_rank": 26,
+    "sentence": "All experimental procedures are outlined in the laboratory manual.",
+    "word_count": 9,
+    "topic": "Science",
+    "song_group": 3
+  },
+  {
+    "id": 27,
+    "priority_rank": 27,
+    "sentence": "There is a lot of debate about that topic.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 3
+  },
+  {
+    "id": 28,
+    "priority_rank": 28,
+    "sentence": "The farmers need to adapt to the changes in the climate.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 3
+  },
+  {
+    "id": 29,
+    "priority_rank": 29,
+    "sentence": "How important is packaging in the market for buyers?",
+    "word_count": 9,
+    "topic": "Business",
+    "song_group": 3
+  },
+  {
+    "id": 30,
+    "priority_rank": 30,
+    "sentence": "Please keep the key with you because the front door often locks automatically.",
+    "word_count": 13,
+    "topic": "Campus",
+    "song_group": 3
+  },
+  {
+    "id": 31,
+    "priority_rank": 31,
+    "sentence": "Photography can be really useful in geographical research.",
+    "word_count": 8,
+    "topic": "Science",
+    "song_group": 4
+  },
+  {
+    "id": 32,
+    "priority_rank": 32,
+    "sentence": "Coursework gives students the chance to thoroughly explore the subject.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 4
+  },
+  {
+    "id": 33,
+    "priority_rank": 33,
+    "sentence": "A university degree is a requirement to enter many professions.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 4
+  },
+  {
+    "id": 34,
+    "priority_rank": 34,
+    "sentence": "Mathematics provides a foundation for understanding and analyzing data.",
+    "word_count": 9,
+    "topic": "Science",
+    "song_group": 4
+  },
+  {
+    "id": 35,
+    "priority_rank": 35,
+    "sentence": "Football is played throughout all years at the university.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 4
+  },
+  {
+    "id": 36,
+    "priority_rank": 36,
+    "sentence": "We are looking for new ways to engage learners.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 4
+  },
+  {
+    "id": 37,
+    "priority_rank": 37,
+    "sentence": "To get to the restroom go into the hall and turn right.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 4
+  },
+  {
+    "id": 38,
+    "priority_rank": 38,
+    "sentence": "Extension requests for the assignment must be submitted before the deadline.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 4
+  },
+  {
+    "id": 39,
+    "priority_rank": 39,
+    "sentence": "Show your passport and boarding pass at the gate.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 4
+  },
+  {
+    "id": 40,
+    "priority_rank": 40,
+    "sentence": "The students are supposed to assemble in the seminar hall before the announcement.",
+    "word_count": 13,
+    "topic": "Campus",
+    "song_group": 4
+  },
+  {
+    "id": 41,
+    "priority_rank": 41,
+    "sentence": "The marine environment has been destroyed by pollution and unsustainable development.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 5
+  },
+  {
+    "id": 42,
+    "priority_rank": 42,
+    "sentence": "Designers need to keep up with social trends.",
+    "word_count": 8,
+    "topic": "Social Sciences",
+    "song_group": 5
+  },
+  {
+    "id": 43,
+    "priority_rank": 43,
+    "sentence": "A new collection of articles has just been published.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 5
+  },
+  {
+    "id": 44,
+    "priority_rank": 44,
+    "sentence": "You can use your laptops in the lecture.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 5
+  },
+  {
+    "id": 45,
+    "priority_rank": 45,
+    "sentence": "People look at organizational failure in different ways in studies.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 5
+  },
+  {
+    "id": 46,
+    "priority_rank": 46,
+    "sentence": "When the roots of a plant fail foliage suffers.",
+    "word_count": 9,
+    "topic": "Science",
+    "song_group": 5
+  },
+  {
+    "id": 47,
+    "priority_rank": 47,
+    "sentence": "The course involves a combination of pure and applied mathematics.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 5
+  },
+  {
+    "id": 48,
+    "priority_rank": 48,
+    "sentence": "A mixture is defined as a compound of chemically separate parts.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 5
+  },
+  {
+    "id": 49,
+    "priority_rank": 49,
+    "sentence": "Political power only disappears when this stage has been completed.",
+    "word_count": 10,
+    "topic": "Social Sciences",
+    "song_group": 5
+  },
+  {
+    "id": 50,
+    "priority_rank": 50,
+    "sentence": "The new law was harder to impose than the government thought.",
+    "word_count": 11,
+    "topic": "Social Sciences",
+    "song_group": 5
+  },
+  {
+    "id": 51,
+    "priority_rank": 51,
+    "sentence": "The marketing budget is doubled since the beginning of the year.",
+    "word_count": 11,
+    "topic": "Business",
+    "song_group": 6
+  },
+  {
+    "id": 52,
+    "priority_rank": 52,
+    "sentence": "The business parliament seminar includes an internship with a local firm.",
+    "word_count": 11,
+    "topic": "Business",
+    "song_group": 6
+  },
+  {
+    "id": 53,
+    "priority_rank": 53,
+    "sentence": "Our medical school students must attend the talk about optional courses.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 6
+  },
+  {
+    "id": 54,
+    "priority_rank": 54,
+    "sentence": "The article considered leisure habits of teenagers in rural areas or places.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 6
+  },
+  {
+    "id": 55,
+    "priority_rank": 55,
+    "sentence": "It is really a comprehensive program that covers both theory and practice.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 6
+  },
+  {
+    "id": 56,
+    "priority_rank": 56,
+    "sentence": "The nation achieved prosperity by opening its exports for trade.",
+    "word_count": 10,
+    "topic": "Business",
+    "song_group": 6
+  },
+  {
+    "id": 57,
+    "priority_rank": 57,
+    "sentence": "Optional tutorials are offered in the final week of the term.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 6
+  },
+  {
+    "id": 58,
+    "priority_rank": 58,
+    "sentence": "Traffic is the main cause of pollution in main cities.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 6
+  },
+  {
+    "id": 59,
+    "priority_rank": 59,
+    "sentence": "He has landed the job in a prestigious law firm.",
+    "word_count": 10,
+    "topic": "Social Sciences",
+    "song_group": 6
+  },
+  {
+    "id": 60,
+    "priority_rank": 60,
+    "sentence": "I dont think its possible to solve the problem easily.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 6
+  },
+  {
+    "id": 61,
+    "priority_rank": 61,
+    "sentence": "The business plan seminar includes an internship with a local firm.",
+    "word_count": 11,
+    "topic": "Business",
+    "song_group": 7
+  },
+  {
+    "id": 62,
+    "priority_rank": 62,
+    "sentence": "You can use your laptop during the lecture.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 7
+  },
+  {
+    "id": 63,
+    "priority_rank": 63,
+    "sentence": "We cannot consider an increase in price at this stage.",
+    "word_count": 10,
+    "topic": "Business",
+    "song_group": 7
+  },
+  {
+    "id": 64,
+    "priority_rank": 64,
+    "sentence": "Organizational failure is considered the large range of specific areas in academic literature.",
+    "word_count": 13,
+    "topic": "Campus",
+    "song_group": 7
+  },
+  {
+    "id": 65,
+    "priority_rank": 65,
+    "sentence": "The curriculum needs to be adjusted for development.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 7
+  },
+  {
+    "id": 66,
+    "priority_rank": 66,
+    "sentence": "Students representatives will visit classes with voting forms.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 7
+  },
+  {
+    "id": 67,
+    "priority_rank": 67,
+    "sentence": "The vocabulary that has peculiar meanings is called jargon.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 7
+  },
+  {
+    "id": 68,
+    "priority_rank": 68,
+    "sentence": "All industries consist of the systems as inputs processes outputs and feedback.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 7
+  },
+  {
+    "id": 69,
+    "priority_rank": 69,
+    "sentence": "The summer school programs allow students to summarize their studies.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 7
+  },
+  {
+    "id": 70,
+    "priority_rank": 70,
+    "sentence": "We encourage students to submit their applications before the deadline.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 7
+  },
+  {
+    "id": 71,
+    "priority_rank": 71,
+    "sentence": "You will acquire many skills during the academic studies.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 8
+  },
+  {
+    "id": 72,
+    "priority_rank": 72,
+    "sentence": "His analysis appeared to be based on the fourth premise.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 8
+  },
+  {
+    "id": 73,
+    "priority_rank": 73,
+    "sentence": "Please note that the seminar has now been canceled.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 8
+  },
+  {
+    "id": 74,
+    "priority_rank": 74,
+    "sentence": "The cooperator operates a continuous assessment.",
+    "word_count": 6,
+    "topic": "Campus",
+    "song_group": 8
+  },
+  {
+    "id": 75,
+    "priority_rank": 75,
+    "sentence": "The article considered the leisure habits of teenagers in rural areas.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 8
+  },
+  {
+    "id": 76,
+    "priority_rank": 76,
+    "sentence": "Students should have awareness of how the business develops globally.",
+    "word_count": 10,
+    "topic": "Business",
+    "song_group": 8
+  },
+  {
+    "id": 77,
+    "priority_rank": 77,
+    "sentence": "Studies showed there is a positive correlation between the two variables.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 8
+  },
+  {
+    "id": 78,
+    "priority_rank": 78,
+    "sentence": "The director of the gallery was grateful for the anonymous donation.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 8
+  },
+  {
+    "id": 79,
+    "priority_rank": 79,
+    "sentence": "The other book isnt thorough but its more insightful.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 8
+  },
+  {
+    "id": 80,
+    "priority_rank": 80,
+    "sentence": "The results of the study underscored the discoveries from early detections.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 8
+  },
+  {
+    "id": 81,
+    "priority_rank": 81,
+    "sentence": "The earths atmosphere is primarily composed of oxygen and nitrogen gases.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 9
+  },
+  {
+    "id": 82,
+    "priority_rank": 82,
+    "sentence": "The rising temperature is changing the wildlife population.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 9
+  },
+  {
+    "id": 83,
+    "priority_rank": 83,
+    "sentence": "Education and training provide important skills for the labor force.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 9
+  },
+  {
+    "id": 84,
+    "priority_rank": 84,
+    "sentence": "Novelists write things that they know about.",
+    "word_count": 7,
+    "topic": "Campus",
+    "song_group": 9
+  },
+  {
+    "id": 85,
+    "priority_rank": 85,
+    "sentence": "The college operates a system of continuous assessment.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 9
+  },
+  {
+    "id": 86,
+    "priority_rank": 86,
+    "sentence": "To gain access to the facilities student cards must be shown.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 9
+  },
+  {
+    "id": 87,
+    "priority_rank": 87,
+    "sentence": "The digital camera has some advantages over traditional film.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 9
+  },
+  {
+    "id": 88,
+    "priority_rank": 88,
+    "sentence": "Graduates from this course generally find jobs in the insurance industry.",
+    "word_count": 11,
+    "topic": "Business",
+    "song_group": 9
+  },
+  {
+    "id": 89,
+    "priority_rank": 89,
+    "sentence": "Much of this research is carried out in the laboratory.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 9
+  },
+  {
+    "id": 90,
+    "priority_rank": 90,
+    "sentence": "At university students can make friends for life.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 9
+  },
+  {
+    "id": 91,
+    "priority_rank": 91,
+    "sentence": "The study center in the library has all the latest technology.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 10
+  },
+  {
+    "id": 92,
+    "priority_rank": 92,
+    "sentence": "In my opinion the car should be repaired soon.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 10
+  },
+  {
+    "id": 93,
+    "priority_rank": 93,
+    "sentence": "There is a lot of traffic in the morning.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 10
+  },
+  {
+    "id": 94,
+    "priority_rank": 94,
+    "sentence": "A world renowned expert on economics and marketing will give a lecture.",
+    "word_count": 12,
+    "topic": "Business",
+    "song_group": 10
+  },
+  {
+    "id": 95,
+    "priority_rank": 95,
+    "sentence": "The weather used to be lovely at this time of the year.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 10
+  },
+  {
+    "id": 96,
+    "priority_rank": 96,
+    "sentence": "The classical mechanism is considered a branch of mathematics.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 10
+  },
+  {
+    "id": 97,
+    "priority_rank": 97,
+    "sentence": "A good architectural structure should be usable durable and beautiful.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 10
+  },
+  {
+    "id": 98,
+    "priority_rank": 98,
+    "sentence": "Calculators are not allowed during the examination.",
+    "word_count": 7,
+    "topic": "Campus",
+    "song_group": 10
+  },
+  {
+    "id": 99,
+    "priority_rank": 99,
+    "sentence": "A pie chart provides a useful means of data comparison.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 10
+  },
+  {
+    "id": 100,
+    "priority_rank": 100,
+    "sentence": "Before preparing food please make sure to wash your hands.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 10
+  },
+  {
+    "id": 101,
+    "priority_rank": 101,
+    "sentence": "Air pollution is a serious problem all over the world.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 11
+  },
+  {
+    "id": 102,
+    "priority_rank": 102,
+    "sentence": "Please move us to the meeting room for the next hour.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 11
+  },
+  {
+    "id": 103,
+    "priority_rank": 103,
+    "sentence": "The students will meet their new teachers after the summer vacation.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 11
+  },
+  {
+    "id": 104,
+    "priority_rank": 104,
+    "sentence": "You can keep your bags in the backroom.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 11
+  },
+  {
+    "id": 105,
+    "priority_rank": 105,
+    "sentence": "The food crops require a large quantity of water and fertilizer.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 11
+  },
+  {
+    "id": 106,
+    "priority_rank": 106,
+    "sentence": "Remember the prestigious election of student membership has strict eligibility criteria.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 11
+  },
+  {
+    "id": 107,
+    "priority_rank": 107,
+    "sentence": "Human beings compete with other species for resources and space.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 11
+  },
+  {
+    "id": 108,
+    "priority_rank": 108,
+    "sentence": "Communication skills have become more important in recent years.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 11
+  },
+  {
+    "id": 109,
+    "priority_rank": 109,
+    "sentence": "Food containing overabundant calories supplies little or no nutritional value.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 11
+  },
+  {
+    "id": 110,
+    "priority_rank": 110,
+    "sentence": "New media journalism is an interesting field of study.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 11
+  },
+  {
+    "id": 111,
+    "priority_rank": 111,
+    "sentence": "New media is to find new areas to study.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 12
+  },
+  {
+    "id": 112,
+    "priority_rank": 112,
+    "sentence": "The employment demand in engineering is increasing rapidly.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 12
+  },
+  {
+    "id": 113,
+    "priority_rank": 113,
+    "sentence": "We have a lecture in the morning on Thursday.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 12
+  },
+  {
+    "id": 114,
+    "priority_rank": 114,
+    "sentence": "The use of mobile phone is not permitted in the library.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 12
+  },
+  {
+    "id": 115,
+    "priority_rank": 115,
+    "sentence": "Many diseases on the list have been eradicated.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 12
+  },
+  {
+    "id": 116,
+    "priority_rank": 116,
+    "sentence": "Academic libraries across the world are steadily incorporating social media.",
+    "word_count": 10,
+    "topic": "Social Sciences",
+    "song_group": 12
+  },
+  {
+    "id": 117,
+    "priority_rank": 117,
+    "sentence": "The rising sea temperature is a sign of climate change.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 12
+  },
+  {
+    "id": 118,
+    "priority_rank": 118,
+    "sentence": "An effective business manager is always open to new ideas.",
+    "word_count": 10,
+    "topic": "Business",
+    "song_group": 12
+  },
+  {
+    "id": 119,
+    "priority_rank": 119,
+    "sentence": "All of the assignments should be submitted in person to the faculty office.",
+    "word_count": 13,
+    "topic": "Campus",
+    "song_group": 12
+  },
+  {
+    "id": 120,
+    "priority_rank": 120,
+    "sentence": "All the educational reforms have been inadequately implemented.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 12
+  },
+  {
+    "id": 121,
+    "priority_rank": 121,
+    "sentence": "An archaeologists new discovery stands out in previously overlooked foundations.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 13
+  },
+  {
+    "id": 122,
+    "priority_rank": 122,
+    "sentence": "His appointment with the Minister of Culture seems like a demotion.",
+    "word_count": 11,
+    "topic": "Social Sciences",
+    "song_group": 13
+  },
+  {
+    "id": 123,
+    "priority_rank": 123,
+    "sentence": "Employment figures are expected to be improved in the next few years.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 13
+  },
+  {
+    "id": 124,
+    "priority_rank": 124,
+    "sentence": "Despite their differences all forms of life share the same characteristics.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 13
+  },
+  {
+    "id": 125,
+    "priority_rank": 125,
+    "sentence": "The economic status of the early Roman Republic will be examined.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 13
+  },
+  {
+    "id": 126,
+    "priority_rank": 126,
+    "sentence": "Educational level is found to be related to social and economic backgrounds.",
+    "word_count": 12,
+    "topic": "Social Sciences",
+    "song_group": 13
+  },
+  {
+    "id": 127,
+    "priority_rank": 127,
+    "sentence": "He landed a job in a prestigious law firm.",
+    "word_count": 9,
+    "topic": "Social Sciences",
+    "song_group": 13
+  },
+  {
+    "id": 128,
+    "priority_rank": 128,
+    "sentence": "I thought it was thrown in a small meeting room.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 13
+  },
+  {
+    "id": 129,
+    "priority_rank": 129,
+    "sentence": "If finance is a cause of concern scholarships may be available.",
+    "word_count": 11,
+    "topic": "Business",
+    "song_group": 13
+  },
+  {
+    "id": 130,
+    "priority_rank": 130,
+    "sentence": "It is being made to reduce harmful emissions.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 13
+  },
+  {
+    "id": 131,
+    "priority_rank": 131,
+    "sentence": "Medical researchers have focused on different treatments and diseases.",
+    "word_count": 9,
+    "topic": "Science",
+    "song_group": 14
+  },
+  {
+    "id": 132,
+    "priority_rank": 132,
+    "sentence": "Most scientists believe that climate change threatens lives on earth.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 14
+  },
+  {
+    "id": 133,
+    "priority_rank": 133,
+    "sentence": "The Chemistry building is located near the entrance to the campus.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 14
+  },
+  {
+    "id": 134,
+    "priority_rank": 134,
+    "sentence": "Our professor is hosting the business development conference.",
+    "word_count": 8,
+    "topic": "Business",
+    "song_group": 14
+  },
+  {
+    "id": 135,
+    "priority_rank": 135,
+    "sentence": "The organization plays an important role in academic literature.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 14
+  },
+  {
+    "id": 136,
+    "priority_rank": 136,
+    "sentence": "Organizational failure is considered in various perspectives in academic literature.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 14
+  },
+  {
+    "id": 137,
+    "priority_rank": 137,
+    "sentence": "Plants are the living things that can grow inland or in water.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 14
+  },
+  {
+    "id": 138,
+    "priority_rank": 138,
+    "sentence": "Radio is a popular form of entertainment throughout the world.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 14
+  },
+  {
+    "id": 139,
+    "priority_rank": 139,
+    "sentence": "Scientific beneficiary to space exploration is frequently questioned.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 14
+  },
+  {
+    "id": 140,
+    "priority_rank": 140,
+    "sentence": "Some people regarded it as care while others regarded it as recklessness.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 14
+  },
+  {
+    "id": 141,
+    "priority_rank": 141,
+    "sentence": "Students have the option to live in college residences or apartments.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 15
+  },
+  {
+    "id": 142,
+    "priority_rank": 142,
+    "sentence": "The archaeologists new discoveries stand out in previously overlooked foundations.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 15
+  },
+  {
+    "id": 143,
+    "priority_rank": 143,
+    "sentence": "The business policy seminar includes an internship with a local firm.",
+    "word_count": 11,
+    "topic": "Business",
+    "song_group": 15
+  },
+  {
+    "id": 144,
+    "priority_rank": 144,
+    "sentence": "The commissioner will portion the funds among all the sovereignties.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 15
+  },
+  {
+    "id": 145,
+    "priority_rank": 145,
+    "sentence": "The dance department stages elaborated performances each semester.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 15
+  },
+  {
+    "id": 146,
+    "priority_rank": 146,
+    "sentence": "Sugar is a compound that consists of carbon oxygen and hydrogen.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 15
+  },
+  {
+    "id": 147,
+    "priority_rank": 147,
+    "sentence": "The massive accumulation of data was converted to a communicable argument.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 15
+  },
+  {
+    "id": 148,
+    "priority_rank": 148,
+    "sentence": "The most popular courses still have a few places left.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 15
+  },
+  {
+    "id": 149,
+    "priority_rank": 149,
+    "sentence": "The museum is closed on Thursday morning every month.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 15
+  },
+  {
+    "id": 150,
+    "priority_rank": 150,
+    "sentence": "New media has transcended traditional national boundaries.",
+    "word_count": 7,
+    "topic": "Campus",
+    "song_group": 15
+  },
+  {
+    "id": 151,
+    "priority_rank": 151,
+    "sentence": "The new paper challenged many previously accepted theories.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 16
+  },
+  {
+    "id": 152,
+    "priority_rank": 152,
+    "sentence": "New materials and techniques are changing the way of architecture.",
+    "word_count": 10,
+    "topic": "Arts",
+    "song_group": 16
+  },
+  {
+    "id": 153,
+    "priority_rank": 153,
+    "sentence": "There is clearly a need for further research in this field.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 16
+  },
+  {
+    "id": 154,
+    "priority_rank": 154,
+    "sentence": "There was a prize for the best student in the presentation.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 16
+  },
+  {
+    "id": 155,
+    "priority_rank": 155,
+    "sentence": "Traffic is the main cause of air pollution in many cities.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 16
+  },
+  {
+    "id": 156,
+    "priority_rank": 156,
+    "sentence": "We are able to work in a team.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 16
+  },
+  {
+    "id": 157,
+    "priority_rank": 157,
+    "sentence": "We can work together to achieve higher educational standards.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 16
+  },
+  {
+    "id": 158,
+    "priority_rank": 158,
+    "sentence": "We cant consider any increase in our price at this stage.",
+    "word_count": 11,
+    "topic": "Business",
+    "song_group": 16
+  },
+  {
+    "id": 159,
+    "priority_rank": 159,
+    "sentence": "Distance learning allows you to develop a career around your commitments.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 16
+  },
+  {
+    "id": 160,
+    "priority_rank": 160,
+    "sentence": "One of the election promises is to decrease the income tax.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 16
+  },
+  {
+    "id": 161,
+    "priority_rank": 161,
+    "sentence": "Dealing with the growing population is a challenge for many governments.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 17
+  },
+  {
+    "id": 162,
+    "priority_rank": 162,
+    "sentence": "Those who are considering a career in marketing should attend the talk.",
+    "word_count": 12,
+    "topic": "Business",
+    "song_group": 17
+  },
+  {
+    "id": 163,
+    "priority_rank": 163,
+    "sentence": "The visiting guest used to be the lecturer of this department.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 17
+  },
+  {
+    "id": 164,
+    "priority_rank": 164,
+    "sentence": "Farming methods around the world have greatly developed recently.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 17
+  },
+  {
+    "id": 165,
+    "priority_rank": 165,
+    "sentence": "Mature students usually adapt to university life extremely well.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 17
+  },
+  {
+    "id": 166,
+    "priority_rank": 166,
+    "sentence": "The industrial revolution in Europe was driven by steam technology.",
+    "word_count": 10,
+    "topic": "History",
+    "song_group": 17
+  },
+  {
+    "id": 167,
+    "priority_rank": 167,
+    "sentence": "Our courses help improve critical thinking and independent learning skills.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 17
+  },
+  {
+    "id": 168,
+    "priority_rank": 168,
+    "sentence": "They developed a unique approach to training their employees.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 17
+  },
+  {
+    "id": 169,
+    "priority_rank": 169,
+    "sentence": "Without a doubt this theory has a number of limitations.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 17
+  },
+  {
+    "id": 170,
+    "priority_rank": 170,
+    "sentence": "You need to put these books on the table over there.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 17
+  },
+  {
+    "id": 171,
+    "priority_rank": 171,
+    "sentence": "Muscle cells bring parts of the body closer together.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 18
+  },
+  {
+    "id": 172,
+    "priority_rank": 172,
+    "sentence": "Banks charge interest on the money they lend to customers.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 18
+  },
+  {
+    "id": 173,
+    "priority_rank": 173,
+    "sentence": "The student shop has a range of stationery.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 18
+  },
+  {
+    "id": 174,
+    "priority_rank": 174,
+    "sentence": "We hold the visiting hours throughout the year for students.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 18
+  },
+  {
+    "id": 175,
+    "priority_rank": 175,
+    "sentence": "A strong liner is used to measure distance and baseline.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 18
+  },
+  {
+    "id": 176,
+    "priority_rank": 176,
+    "sentence": "The library will be closed for staff training tomorrow morning.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 18
+  },
+  {
+    "id": 177,
+    "priority_rank": 177,
+    "sentence": "Scientists recognized the different ice types according to the water molecule content.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 18
+  },
+  {
+    "id": 178,
+    "priority_rank": 178,
+    "sentence": "Social media is criticized for causing internet addiction.",
+    "word_count": 8,
+    "topic": "Social Sciences",
+    "song_group": 18
+  },
+  {
+    "id": 179,
+    "priority_rank": 179,
+    "sentence": "Essays and assignments are spread out across the academic year.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 18
+  },
+  {
+    "id": 180,
+    "priority_rank": 180,
+    "sentence": "The area has a number of underwater habitats in species.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 18
+  },
+  {
+    "id": 181,
+    "priority_rank": 181,
+    "sentence": "The momentum is defined as the combination of mass and velocity.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 19
+  },
+  {
+    "id": 182,
+    "priority_rank": 182,
+    "sentence": "The researchers are disappointed that their materials are proved to be inconclusive.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 19
+  },
+  {
+    "id": 183,
+    "priority_rank": 183,
+    "sentence": "Requests for late submissions will not be accepted under any circumstances.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 19
+  },
+  {
+    "id": 184,
+    "priority_rank": 184,
+    "sentence": "Students should leave their bags on the table by the door.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 19
+  },
+  {
+    "id": 185,
+    "priority_rank": 185,
+    "sentence": "Slides and handouts can be downloaded after the lecture.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 19
+  },
+  {
+    "id": 186,
+    "priority_rank": 186,
+    "sentence": "Sugar is a compound including carbon hydrogen and oxygen items.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 19
+  },
+  {
+    "id": 187,
+    "priority_rank": 187,
+    "sentence": "The north campus car park could be closed on Sunday.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 19
+  },
+  {
+    "id": 188,
+    "priority_rank": 188,
+    "sentence": "Firm conclusions can be established through rigorous experiments.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 19
+  },
+  {
+    "id": 189,
+    "priority_rank": 189,
+    "sentence": "All medical students must clean their hands before entering the room.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 19
+  },
+  {
+    "id": 190,
+    "priority_rank": 190,
+    "sentence": "Your ideas are discussed depending on your seminar or tutorial.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 19
+  },
+  {
+    "id": 191,
+    "priority_rank": 191,
+    "sentence": "The bus for London will leave 10 minutes later than planned.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 20
+  },
+  {
+    "id": 192,
+    "priority_rank": 192,
+    "sentence": "The printers automatically print both sides of each page.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 20
+  },
+  {
+    "id": 193,
+    "priority_rank": 193,
+    "sentence": "There is a wide perception that engineering is for boys.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 20
+  },
+  {
+    "id": 194,
+    "priority_rank": 194,
+    "sentence": "Archaeologists discovered tools and other artifacts near the tombs.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 20
+  },
+  {
+    "id": 195,
+    "priority_rank": 195,
+    "sentence": "The professor took a year off to work on her book.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 20
+  },
+  {
+    "id": 196,
+    "priority_rank": 196,
+    "sentence": "The Science Library is currently located on the ground of the library.",
+    "word_count": 12,
+    "topic": "Science",
+    "song_group": 20
+  },
+  {
+    "id": 197,
+    "priority_rank": 197,
+    "sentence": "Take the first step to apply for your university scholarship.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 20
+  },
+  {
+    "id": 198,
+    "priority_rank": 198,
+    "sentence": "Check the website if you are looking for discount textbooks.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 20
+  },
+  {
+    "id": 199,
+    "priority_rank": 199,
+    "sentence": "The unemployment rate has fallen to its lowest level in years.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 20
+  },
+  {
+    "id": 200,
+    "priority_rank": 200,
+    "sentence": "People provide the reports to support your idea in these arguments.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 20
+  },
+  {
+    "id": 201,
+    "priority_rank": 201,
+    "sentence": "The shipwreck of this year ruined some artifacts which were interested in historians.",
+    "word_count": 13,
+    "topic": "Campus",
+    "song_group": 21
+  },
+  {
+    "id": 202,
+    "priority_rank": 202,
+    "sentence": "Gravity is the force that attracts two bodies from one another.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 21
+  },
+  {
+    "id": 203,
+    "priority_rank": 203,
+    "sentence": "Criminal charges will be brought against all of the men.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 21
+  },
+  {
+    "id": 204,
+    "priority_rank": 204,
+    "sentence": "Plants are able to continue growing throughout their lives.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 21
+  },
+  {
+    "id": 205,
+    "priority_rank": 205,
+    "sentence": "Castles were designed to intimidate both local people and the enemies.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 21
+  },
+  {
+    "id": 206,
+    "priority_rank": 206,
+    "sentence": "A celebrated theory is still the source of great controversy.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 21
+  },
+  {
+    "id": 207,
+    "priority_rank": 207,
+    "sentence": "A good academic paper should be clear.",
+    "word_count": 7,
+    "topic": "Campus",
+    "song_group": 21
+  },
+  {
+    "id": 208,
+    "priority_rank": 208,
+    "sentence": "All industries consist of systems of inputs, processes, outputs and feedback.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 21
+  },
+  {
+    "id": 209,
+    "priority_rank": 209,
+    "sentence": "Although sustainable development is not easy, it is an unavoidable responsibility.",
+    "word_count": 11,
+    "topic": "Environment",
+    "song_group": 21
+  },
+  {
+    "id": 210,
+    "priority_rank": 210,
+    "sentence": "Are these real PTE exam questions?",
+    "word_count": 6,
+    "topic": "Campus",
+    "song_group": 21
+  },
+  {
+    "id": 211,
+    "priority_rank": 211,
+    "sentence": "Artists, other than politicians, played their own roles as critics of the culture.",
+    "word_count": 13,
+    "topic": "Social Sciences",
+    "song_group": 22
+  },
+  {
+    "id": 212,
+    "priority_rank": 212,
+    "sentence": "Babies can distinguish between what is language and what is not.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 22
+  },
+  {
+    "id": 213,
+    "priority_rank": 213,
+    "sentence": "Businesses must adapt to the data protection regulations.",
+    "word_count": 8,
+    "topic": "Science",
+    "song_group": 22
+  },
+  {
+    "id": 214,
+    "priority_rank": 214,
+    "sentence": "Companies' projects must adapt to the general data protection regulations.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 22
+  },
+  {
+    "id": 215,
+    "priority_rank": 215,
+    "sentence": "Convincing evidence to support this theory is hard to obtain.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 22
+  },
+  {
+    "id": 216,
+    "priority_rank": 216,
+    "sentence": "Economic problems caused a big rise in unemployment.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 22
+  },
+  {
+    "id": 217,
+    "priority_rank": 217,
+    "sentence": "Exotic activities can help students develop more talents.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 22
+  },
+  {
+    "id": 218,
+    "priority_rank": 218,
+    "sentence": "Experts say learning and listening to music can reduce the stress.",
+    "word_count": 11,
+    "topic": "Arts",
+    "song_group": 22
+  },
+  {
+    "id": 219,
+    "priority_rank": 219,
+    "sentence": "Extracurricular activities can help students to develop more talents.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 22
+  },
+  {
+    "id": 220,
+    "priority_rank": 220,
+    "sentence": "Foods containing overabundant calories supply little or no nutritional value.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 22
+  },
+  {
+    "id": 221,
+    "priority_rank": 221,
+    "sentence": "Globalization has been an overwhelming urbanization phenomenon.",
+    "word_count": 7,
+    "topic": "Campus",
+    "song_group": 23
+  },
+  {
+    "id": 222,
+    "priority_rank": 222,
+    "sentence": "Having strong motivation is vital for achieving your goal.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 23
+  },
+  {
+    "id": 223,
+    "priority_rank": 223,
+    "sentence": "He wrote poetry and plays as well as scientific papers.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 23
+  },
+  {
+    "id": 224,
+    "priority_rank": 224,
+    "sentence": "How often is this page updated?",
+    "word_count": 6,
+    "topic": "Campus",
+    "song_group": 23
+  },
+  {
+    "id": 225,
+    "priority_rank": 225,
+    "sentence": "How should I practise Write From Dictation?",
+    "word_count": 7,
+    "topic": "Campus",
+    "song_group": 23
+  },
+  {
+    "id": 226,
+    "priority_rank": 226,
+    "sentence": "Humans use symbolic languages to communicate plans and contentions.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 23
+  },
+  {
+    "id": 227,
+    "priority_rank": 227,
+    "sentence": "I will now demonstrate how the reaction can be arrested by adding a dilute acid.",
+    "word_count": 15,
+    "topic": "Campus",
+    "song_group": 23
+  },
+  {
+    "id": 228,
+    "priority_rank": 228,
+    "sentence": "Industries now bring more job opportunities than agriculture and fishing combined.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 23
+  },
+  {
+    "id": 229,
+    "priority_rank": 229,
+    "sentence": "It helps you to rationally assess your arguments.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 23
+  },
+  {
+    "id": 230,
+    "priority_rank": 230,
+    "sentence": "It is interesting to observe the development of language skills of toddlers.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 24
+  },
+  {
+    "id": 231,
+    "priority_rank": 231,
+    "sentence": "Lots of people turned out to be at the presidential address.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 24
+  },
+  {
+    "id": 232,
+    "priority_rank": 232,
+    "sentence": "Many birds migrated to the warmer area for winter.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 24
+  },
+  {
+    "id": 233,
+    "priority_rank": 233,
+    "sentence": "Many important policies need to be made.",
+    "word_count": 7,
+    "topic": "Campus",
+    "song_group": 24
+  },
+  {
+    "id": 234,
+    "priority_rank": 234,
+    "sentence": "Please click on the logo above to enter the site.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 24
+  },
+  {
+    "id": 235,
+    "priority_rank": 235,
+    "sentence": "Providers of higher education treat plagiarism extremely seriously.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 24
+  },
+  {
+    "id": 236,
+    "priority_rank": 236,
+    "sentence": "Psychologists say what we have experienced influences our behaviors.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 24
+  },
+  {
+    "id": 237,
+    "priority_rank": 237,
+    "sentence": "Rising inflation may indicate the increasing demand for consumer products.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 24
+  },
+  {
+    "id": 238,
+    "priority_rank": 238,
+    "sentence": "Scientific experiments should be repeated in order to verify the results.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 24
+  },
+  {
+    "id": 239,
+    "priority_rank": 239,
+    "sentence": "Scientists found most of the studies today.",
+    "word_count": 7,
+    "topic": "Campus",
+    "song_group": 25
+  },
+  {
+    "id": 240,
+    "priority_rank": 240,
+    "sentence": "She began by giving an outline of the previous lecture.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 25
+  },
+  {
+    "id": 241,
+    "priority_rank": 241,
+    "sentence": "Strangely, people are impacted by spontaneously using statistics.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 25
+  },
+  {
+    "id": 242,
+    "priority_rank": 242,
+    "sentence": "Students are advised to use multiple methods for this project.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 25
+  },
+  {
+    "id": 243,
+    "priority_rank": 243,
+    "sentence": "Students are permitted to park in campus parking spaces.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 25
+  },
+  {
+    "id": 244,
+    "priority_rank": 244,
+    "sentence": "Students are recommended to read new books by professor Johns.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 25
+  },
+  {
+    "id": 245,
+    "priority_rank": 245,
+    "sentence": "Students may only use parking cards in authorized university parking space.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 25
+  },
+  {
+    "id": 246,
+    "priority_rank": 246,
+    "sentence": "Students would develop confidence in their ability to think critically.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 25
+  },
+  {
+    "id": 247,
+    "priority_rank": 247,
+    "sentence": "Sugar is a compound including carbon, hydrogen, and oxygen atoms.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 25
+  },
+  {
+    "id": 248,
+    "priority_rank": 248,
+    "sentence": "Technology is no longer a simple tool that we can control.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 26
+  },
+  {
+    "id": 249,
+    "priority_rank": 249,
+    "sentence": "That means they have so many struggling overlaps.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 26
+  },
+  {
+    "id": 250,
+    "priority_rank": 250,
+    "sentence": "The British students need to study mathematics in secondary school.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 26
+  },
+  {
+    "id": 251,
+    "priority_rank": 251,
+    "sentence": "The closing date for applications for travel scholarships is next Monday.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 26
+  },
+  {
+    "id": 252,
+    "priority_rank": 252,
+    "sentence": "The course covers architecture planning and construction on the international scale.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 26
+  },
+  {
+    "id": 253,
+    "priority_rank": 253,
+    "sentence": "The course will start with the history of architecture.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 26
+  },
+  {
+    "id": 254,
+    "priority_rank": 254,
+    "sentence": "The disease that was serious has now been eradicated.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 26
+  },
+  {
+    "id": 255,
+    "priority_rank": 255,
+    "sentence": "The essay will argue that technology does more harm than good.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 26
+  },
+  {
+    "id": 256,
+    "priority_rank": 256,
+    "sentence": "The exam system has been upgraded due to professional exams.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 26
+  },
+  {
+    "id": 257,
+    "priority_rank": 257,
+    "sentence": "The extent of advertising on children is very much open to debate.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 27
+  },
+  {
+    "id": 258,
+    "priority_rank": 258,
+    "sentence": "The faculty staff are very approachable, helpful and extremely friendly.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 27
+  },
+  {
+    "id": 259,
+    "priority_rank": 259,
+    "sentence": "The falling birth rate means the number of students drops.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 27
+  },
+  {
+    "id": 260,
+    "priority_rank": 260,
+    "sentence": "The garden behind the university is open to the public in summer.",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 27
+  },
+  {
+    "id": 261,
+    "priority_rank": 261,
+    "sentence": "The goal of the company is to get investment.",
+    "word_count": 9,
+    "topic": "Business",
+    "song_group": 27
+  },
+  {
+    "id": 262,
+    "priority_rank": 262,
+    "sentence": "The government is funding research studies on the consequences of unemployment.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 27
+  },
+  {
+    "id": 263,
+    "priority_rank": 263,
+    "sentence": "The history of this university is a long and interesting one.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 27
+  },
+  {
+    "id": 264,
+    "priority_rank": 264,
+    "sentence": "The island is located at the south end of the bay .",
+    "word_count": 12,
+    "topic": "Campus",
+    "song_group": 27
+  },
+  {
+    "id": 265,
+    "priority_rank": 265,
+    "sentence": "The meeting has some struggling overlaps.",
+    "word_count": 6,
+    "topic": "Campus",
+    "song_group": 27
+  },
+  {
+    "id": 266,
+    "priority_rank": 266,
+    "sentence": "The new media has transformed the traditional, national boundaries.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 28
+  },
+  {
+    "id": 267,
+    "priority_rank": 267,
+    "sentence": "The opening hours of the library are reduced during summer.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 28
+  },
+  {
+    "id": 268,
+    "priority_rank": 268,
+    "sentence": "The output should be proportional to the input.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 28
+  },
+  {
+    "id": 269,
+    "priority_rank": 269,
+    "sentence": "The plight of wildlife has been ignored by many developers.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 28
+  },
+  {
+    "id": 270,
+    "priority_rank": 270,
+    "sentence": "The posters are on display at the larger lecture theatre.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 28
+  },
+  {
+    "id": 271,
+    "priority_rank": 271,
+    "sentence": "The reception staff can give information of renting and printing.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 28
+  },
+  {
+    "id": 272,
+    "priority_rank": 272,
+    "sentence": "The scholarship is available for both local and international students.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 28
+  },
+  {
+    "id": 273,
+    "priority_rank": 273,
+    "sentence": "The scientific beneficiary of space exploration is frequently questioned.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 28
+  },
+  {
+    "id": 274,
+    "priority_rank": 274,
+    "sentence": "The skills of great stage actors cannot be taught.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 28
+  },
+  {
+    "id": 275,
+    "priority_rank": 275,
+    "sentence": "The stock market redesigned the market throughout the world.",
+    "word_count": 9,
+    "topic": "Business",
+    "song_group": 29
+  },
+  {
+    "id": 276,
+    "priority_rank": 276,
+    "sentence": "The teaching staff are actively engaged in the original research.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 29
+  },
+  {
+    "id": 277,
+    "priority_rank": 277,
+    "sentence": "The timetable for the new term will be available next week.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 29
+  },
+  {
+    "id": 278,
+    "priority_rank": 278,
+    "sentence": "The topic of next week colloquium will be nuclear disarmament.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 29
+  },
+  {
+    "id": 279,
+    "priority_rank": 279,
+    "sentence": "The toughest part of research for undergraduate education is funding.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 29
+  },
+  {
+    "id": 280,
+    "priority_rank": 280,
+    "sentence": "The two sides have disagreed on how to solve the problem.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 29
+  },
+  {
+    "id": 281,
+    "priority_rank": 281,
+    "sentence": "The university library holds a number of collections of geological maps.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 29
+  },
+  {
+    "id": 282,
+    "priority_rank": 282,
+    "sentence": "The untapped potential for using the sun's rays is phenomenal.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 29
+  },
+  {
+    "id": 283,
+    "priority_rank": 283,
+    "sentence": "There are many different styles of business management.",
+    "word_count": 8,
+    "topic": "Business",
+    "song_group": 29
+  },
+  {
+    "id": 284,
+    "priority_rank": 284,
+    "sentence": "There is a clear need for further research in this field.",
+    "word_count": 11,
+    "topic": "Science",
+    "song_group": 30
+  },
+  {
+    "id": 285,
+    "priority_rank": 285,
+    "sentence": "This course aims to develop your knowledge of statistics.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 30
+  },
+  {
+    "id": 286,
+    "priority_rank": 286,
+    "sentence": "This course is integrated because it has several parts.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 30
+  },
+  {
+    "id": 287,
+    "priority_rank": 287,
+    "sentence": "This course puts great emphasis on critical thinking skills.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 30
+  },
+  {
+    "id": 288,
+    "priority_rank": 288,
+    "sentence": "Those who are considering a career of marketing should attend the talk.",
+    "word_count": 12,
+    "topic": "Business",
+    "song_group": 30
+  },
+  {
+    "id": 289,
+    "priority_rank": 289,
+    "sentence": "Thousands of people turned out to be at the presidential address.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 30
+  },
+  {
+    "id": 290,
+    "priority_rank": 290,
+    "sentence": "Too much information may be avoided by good research design.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 30
+  },
+  {
+    "id": 291,
+    "priority_rank": 291,
+    "sentence": "Undergraduates have a wide range of cultural modules to choose from.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 30
+  },
+  {
+    "id": 292,
+    "priority_rank": 292,
+    "sentence": "Understanding how to use the library will save your time.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 30
+  },
+  {
+    "id": 293,
+    "priority_rank": 293,
+    "sentence": "We are able to accommodate more students than previously.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 31
+  },
+  {
+    "id": 294,
+    "priority_rank": 294,
+    "sentence": "We can all meet in the office after the lecture.",
+    "word_count": 10,
+    "topic": "Campus",
+    "song_group": 31
+  },
+  {
+    "id": 295,
+    "priority_rank": 295,
+    "sentence": "We have a lecture on the morning of Thursday.",
+    "word_count": 9,
+    "topic": "Campus",
+    "song_group": 31
+  },
+  {
+    "id": 296,
+    "priority_rank": 296,
+    "sentence": "We help students to develop their individuals and follow their interests.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 31
+  },
+  {
+    "id": 297,
+    "priority_rank": 297,
+    "sentence": "We support the research on problems related to tropical cyclone dynamics and forecasting.",
+    "word_count": 13,
+    "topic": "Science",
+    "song_group": 31
+  },
+  {
+    "id": 298,
+    "priority_rank": 298,
+    "sentence": "When sentencing, the court will depend on whether the criminal is guilty or not.",
+    "word_count": 14,
+    "topic": "Campus",
+    "song_group": 31
+  },
+  {
+    "id": 299,
+    "priority_rank": 299,
+    "sentence": "Writing an essay is easy once the research is finished.",
+    "word_count": 10,
+    "topic": "Science",
+    "song_group": 31
+  },
+  {
+    "id": 300,
+    "priority_rank": 300,
+    "sentence": "You need to collect a clear note while learning new languages.",
+    "word_count": 11,
+    "topic": "Campus",
+    "song_group": 31
+  },
+  {
+    "id": 301,
+    "priority_rank": 301,
+    "sentence": "Your ideas are sophisticated in seminars and tutorials.",
+    "word_count": 8,
+    "topic": "Campus",
+    "song_group": 31
+  }
+]
