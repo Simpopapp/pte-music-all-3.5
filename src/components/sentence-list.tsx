@@ -3,6 +3,7 @@
 // Todos respeitam as preferências da aba /settings.
 import { useEffect, useRef, useState } from "react";
 import { ChevronDown, Loader2, Square, Volume2, X } from "lucide-react";
+import { tokenize } from "@/lib/tokenize";
 import type { WfdSettings } from "@/hooks/use-wfd-settings";
 import { getAudioUrl } from "@/lib/audio-cache";
 import { speakSentenceFn } from "@/lib/ai/tts.functions";
@@ -16,24 +17,8 @@ import {
 } from "@/lib/translation-cache";
 import { translateSentenceFn, translateWordFn } from "@/lib/ai/translate.functions";
 
-type Token = { text: string; word: string | null };
-
-const TOKEN_RE = /[A-Za-z][A-Za-z'’-]*/g;
 const TAP_MAX_DISTANCE = 10; // px
 const TAP_MAX_DURATION = 500; // ms
-
-function tokenize(sentence: string): Token[] {
-  const tokens: Token[] = [];
-  let last = 0;
-  for (const match of sentence.matchAll(TOKEN_RE)) {
-    const start = match.index ?? 0;
-    if (start > last) tokens.push({ text: sentence.slice(last, start), word: null });
-    tokens.push({ text: match[0], word: match[0] });
-    last = start + match[0].length;
-  }
-  if (last < sentence.length) tokens.push({ text: sentence.slice(last), word: null });
-  return tokens;
-}
 
 /** Toque proposital: só dispara se o ponteiro quase não se moveu. */
 function usePropositalTap(onTap: () => void) {
